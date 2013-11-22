@@ -1,4 +1,7 @@
 portal
 ======
 
-Portal v.0.1
+Opinity - Portal v.0.1
+
+Welcome to the internal portal project.
+
